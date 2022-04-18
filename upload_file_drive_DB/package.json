@@ -1,0 +1,15 @@
+{
+  "name": "upload_file_drive_db",
+  "version": "1.0.0",
+  "description": "upload de arquivos para o drive google",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Tobias Arantes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "googleapis": "^100.0.0"
+  }
+}
